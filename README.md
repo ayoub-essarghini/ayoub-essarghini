@@ -56,7 +56,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-essarghini"/>
+<img src="https://streak-stats.demolab.com?user=ayoub-essarghini&theme=dark"/>
   <br/>
     <div align="center">
     <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-essarghini&layout=compact"/>
