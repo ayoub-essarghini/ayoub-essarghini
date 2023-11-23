@@ -59,12 +59,7 @@
     <div align="center">
     <img align="right" width="50%" src="https://streak-stats.demolab.com?user=ayoub-essarghini&theme=dark"/>
     <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-essarghini&layout=compact"/>
-    </div>
-   
-
 </div>
-
-
 
 <hr/>
 
