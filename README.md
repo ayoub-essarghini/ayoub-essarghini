@@ -59,6 +59,9 @@
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayoub-essarghini&theme=dark&border_radius=10.7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
+
+            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-essarghini)](https://github.com/ayoub-essarghini/github-readme-stats)
+
 </a>
 
 </div>
