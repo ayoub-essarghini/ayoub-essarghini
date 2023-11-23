@@ -58,7 +58,9 @@
 <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayoub-essarghini&theme=dark&border_radius=10.7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-ayoub-essarghini.vercel.app/api/top-langs/?username=ayoub-essarghini&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoub-essarghini&repo=github-readme-stats" />
+</a>
 </div>
 
 <br/><br/>
