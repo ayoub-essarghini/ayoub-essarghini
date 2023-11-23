@@ -61,6 +61,9 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoub-essarghini&repo=github-readme-stats" />
 </a>
+
+
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-essarghini)](https://github.com/ayoub-essarghini/github-readme-stats)
 </div>
 
 <br/><br/>
