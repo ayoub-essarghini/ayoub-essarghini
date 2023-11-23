@@ -56,7 +56,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayoub-essarghini&theme=dark&border_radius=10.7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+ 
   <br/>
     <div align="center">
      <img align="right" width="50%" src="https://github.com/anuraghazra/github-readme-stats"/>
