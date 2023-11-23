@@ -59,7 +59,6 @@
  
   <br/>
     <div align="center">
-     <img align="right" width="50%" src="https://github.com/anuraghazra/github-readme-stats"/>
     <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-essarghini&layout=compact"/>
     </div>
    
