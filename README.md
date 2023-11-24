@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayoub+Es+sarghini!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Morocco ma</h3>
+<h3 align="center">A passionate software developer from Morocco </h3>
 
 <br/>
 
@@ -56,8 +56,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img align="right" width="50%" src="https://streak-stats.demolab.com?user=ayoub-essarghini&theme=dark"/>
-    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-essarghini&theme=dark&layout=compact"/>
+    <img align="right" width="50%" src="https://streak-stats.demolab.com?user=ayoub-essarghini&theme=default"/>
+    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-essarghini&theme=default&layout=compact"/>
 </div>
 
 <hr/>
