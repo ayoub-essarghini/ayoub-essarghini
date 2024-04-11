@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **E-commerce platform**
+ 🔭 I’m currently working on **Mini shell**
  
  🌱 I’m currently learning **C, C++, React Js**
 
