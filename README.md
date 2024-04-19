@@ -5,7 +5,10 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Morocco </h3>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/aes-sarg" alt="aes-sarg 42 stats" /></a></p>
+<center>
+    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/aes-sarg" alt="aes-sarg 42 stats" /></a></p>
+</center>
+
 
 <br/>
 
