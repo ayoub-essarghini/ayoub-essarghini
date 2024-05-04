@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayoub+Es+sarghini!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Morocco </h3>
+<h3 align="center">A passionate software engineer from Morocco </h3>
 
 <div align="center">
      <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/aes-sarg" alt="aes-sarg 42 stats" /></a>
@@ -21,7 +21,7 @@
  
  🌱 I’m currently learning **C, C++, React Js**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡  **Hope is the belief in the probability of the possible rather than the necessity of the probable.**
 
  </div>
  
