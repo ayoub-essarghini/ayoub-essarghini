@@ -19,7 +19,7 @@
  
  🔭 I’m currently working on **Mini shell**
  
- 🌱 I’m currently learning **Blockchain,Solidity**
+ 🌱 I’m currently learning **TypeScript,C++**
 
 ⚡  **Hope is the belief in the probability of the possible rather than the necessity of the probable.**
 
