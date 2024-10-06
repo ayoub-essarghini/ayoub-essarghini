@@ -49,7 +49,7 @@
     <h3 class="center">Mobile app</h3> <br>
     <img src="https://skillicons.dev/icons?i=java,androidstudio" /><br>
     <h3 class="center">Tools</h3> <br>
-    <img src="https://skillicons.dev/icons?i=c,vim,postman,,git,github,firebase,mysql,sqlite,gradle" /><br>
+    <img src="https://skillicons.dev/icons?i=c,vim,postman,linux,git,github,firebase,mysql,sqlite,gradle" /><br>
     <img src="https://skillicons.dev/icons?i=ai,ps,pr,au,figma" /><br>
 </div>
 
