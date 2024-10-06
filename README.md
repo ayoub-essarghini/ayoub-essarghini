@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,jquery,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=c,vim,laravel,php,postman,linux,javascript,firebase,c,java,kotlin,androidstudio,gradle,mysql,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=c,vim,laravel,php,postman,linux,javascript,firebase,c,java,spring,angular,kotlin,androidstudio,gradle,mysql,sqlite" /><br>
     <img src="https://skillicons.dev/icons?i=ai,ps,pr,au" /><br>
 </div>
 
