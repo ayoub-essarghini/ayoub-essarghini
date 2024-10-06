@@ -42,10 +42,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,jquery,bootstrap,html,css,github,tailwind,git" /> <br>
+    <h3 class="center">Frontend</h3> <br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,angular,jquery,bootstrap,html,css,tailwind" /> <br>
+    <h3 class="center">Backend</h3>  <br>
+    <img src="https://skillicons.dev/icons?i=laravel,php,java,spring" /><br>
+    <h3 class="center">Mobile app</h3> <br>
     <img src="https://skillicons.dev/icons?i=java,androidstudio" /><br>
-    <img src="https://skillicons.dev/icons?i=,laravel,php,java,spring,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=c,vim,postman,linux,firebase,mysql,sqlite,gradle" /><br>
+    <h3 class="center">Tools</h3> <br>
+    <img src="https://skillicons.dev/icons?i=c,vim,postman,linux,,git,github,firebase,mysql,sqlite,gradle" /><br>
     <img src="https://skillicons.dev/icons?i=ai,ps,pr,au,figma" /><br>
 </div>
 
