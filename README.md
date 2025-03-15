@@ -17,9 +17,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Web Server**
+ 🔭 I’m currently working on **My Own js frameWork**
  
- 🌱 I’m currently learning **TypeScript,C++**
+ 🌱 I’m currently learning **TypeScript**
 
 ⚡  **Hope is the belief in the probability of the possible rather than the necessity of the probable.**
 
