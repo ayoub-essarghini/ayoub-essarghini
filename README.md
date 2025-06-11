@@ -19,7 +19,7 @@
  
  🔭 I’m currently working on **Ai image generator**
  
- 🌱 I’m currently learning **nextjs**
+ 🌱 I’m currently learning **NextJs**
 
 ⚡  **Hope is the belief in the probability of the possible rather than the necessity of the probable.**
 
