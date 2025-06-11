@@ -17,9 +17,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **My Own js frameWork**
+ 🔭 I’m currently working on **Ai image generator**
  
- 🌱 I’m currently learning **TypeScript**
+ 🌱 I’m currently learning **nextjs**
 
 ⚡  **Hope is the belief in the probability of the possible rather than the necessity of the probable.**
 
@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
     <h3 class="center">Frontend</h3> <br>
-    <img src="https://skillicons.dev/icons?i=react,javascript,angular,jquery,bootstrap,html,css,tailwind" /> <br>
+    <img src="https://skillicons.dev/icons?i=react,javascript,nextjs,angular,jquery,bootstrap,html,css,tailwind" /> <br>
     <h3 class="center">Backend</h3>  <br>
     <img src="https://skillicons.dev/icons?i=laravel,php,java,spring" /><br>
     <h3 class="center">Mobile app</h3> <br>
