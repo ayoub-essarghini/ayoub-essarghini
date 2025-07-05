@@ -7,7 +7,7 @@
 <h3 align="center">Aspiring Software Engineer from Morocco </h3>
 
 <div align="center">
-     <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/aes-sarg" alt="aes-sarg 42 stats" /></a>
+    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aes-sarg" alt="aes-sarg's 42 stats" /></a>
 </div>
    
 
