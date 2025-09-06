@@ -17,9 +17,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Ai image generator**
+ 🔭 I’m currently working on **Desiginig 3d portfolio**
  
- 🌱 I’m currently learning **Exploring 3d world using threejs & react fiber**
+ 🌱 I’m currently **Exploring 3d world using threejs & react fiber**
 
 ⚡  **Hope is the belief in the probability of the possible rather than the necessity of the probable.**
 
