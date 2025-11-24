@@ -11,7 +11,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ayoub-essarghini.ayoub-essarghini&left_color=6366f1&right_color=8b5cf6" />
   <img src="https://img.shields.io/github/followers/ayoub-essarghini?label=Followers&style=flat&logo=github&color=8b5cf6" />
   <img src="https://img.shields.io/github/stars/ayoub-essarghini?label=Stars&style=flat&logo=github&color=f59e0b" />
-  <a href="https://wakatime.com/@ayoub"><img src="https://wakatime.com/badge/user/YOUR-ID.svg?style=flat" alt="WakaTime"/></a>
+  <a href="https://wakatime.com/@ayoub_essarghini"><img src="https://wakatime.com/badge/user/YOUR-ID.svg?style=flat" alt="WakaTime"/></a>
 </p>
 
 <!-- 42 Badge -->
