@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayoub%20Es%20Sarghini&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20|%20Morocco%20🇲🇦&descAlignY=51&descAlign=50&animation=twinkling"/>
 
 <!-- Advanced Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%3C+Software+Engineer+%2F%3E;Building+the+Future+with+Code+%F0%9F%9A%80;3D+%7C+Web+%7C+Mobile+%7C+Design" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%3C+Software+Engineer+%2F%3E;Building+the+Future+with+Code" alt="Typing SVG" /></a>
 
 <!-- Interactive Badges -->
 <p align="center">
