@@ -352,46 +352,54 @@ currently_learning:
 <div align="center">
 
 ### 🚀 Click on any project to explore
-
 <table>
 <tr>
 <td width="50%">
 
+#### 🌐 Avocapp-FullStack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+Full-stack application primarily implemented in Python with a simple front-end in HTML. Backend-focused with deployment tooling and automation.
+
+`Python` `HTML` `Makefile`
+
 </td>
 <td width="50%">
 
-
-#### 🌐 Avocapp-FullStack
-https://github.com/ayoub-essarghini/Avocapp-FullStack  
-Full-stack application primarily implemented in Python with a simple front-end in HTML. Primary languages: Python (93.5%), HTML (4.7%), Makefile (1.5%), Shell (0.3%).
-
-Technologies: Python · HTML · Backend-focused · Full-stack deployment
-
----
-
 #### 🧭 WebServer
-https://github.com/ahmedelqori/WebServer  
-A custom HTTP server implementation you can test in a real browser — great for learning low-level web protocols and server internals. Primary languages: C++ (93.8%), Python (5.2%).
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Description: This project is about writing your own HTTP server. You will be able to test it with an actual browser. HTTP is one of the most used protocols on the internet. Knowing its arcane will be useful, even if you won’t be working on a website.
+A custom HTTP server implementation you can test in a real browser — great for learning low-level web protocols and server internals.
 
----
+`C++` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 #### 🗺️ WanderWise Backend
-https://github.com/ayoub-essarghini/WanderWise-Backend  
-Robust backend service implemented in Java for a travel app. Primary languages: Java (99.8%), Dockerfile (0.2%).
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Technologies: Java · REST · Docker
+Robust backend service implemented in Java for a travel app, designed for reliability and containerized deployments.
 
----
+`Java` `Docker`
+
+</td>
+<td width="50%">
 
 #### 🎮 ft_transcendence
-https://github.com/ayoub-essarghini/ft_transcendence  
-Full-stack real-time project combining TypeScript and JavaScript with smart-contract pieces. Primary languages: TypeScript (66.2%), JavaScript (32.2%), plus small Solidity components.
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-Technologies: TypeScript · Node/React · Solidity (small) · Docker
+Full-stack real-time project combining TypeScript and JavaScript with small smart-contract components and realtime features.
 
----
+`TypeScript` `JavaScript` `Solidity`
+
+</td>
 </tr>
 </table>
 
