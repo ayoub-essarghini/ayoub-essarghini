@@ -32,16 +32,15 @@ class SoftwareEngineer {
         this.name = "Ayoub Es Sarghini";
         this.role = "Software Engineer";
         this.location = "Morocco 🇲🇦";
-        this.languages = ["JavaScript", "TypeScript", "PHP", "Java", "C"];
-        this.currentProject = "Building immersive 3D portfolio with Three.js";
+        this.languages = ["Java", "TypeScript", "PHP", "Javascript","Python", "C","C++","Kotlin","Dart"];
     }
 
     getCurrentStack() {
         return {
             frontend: ["React", "Next.js", "Angular", "Three.js", "React Three Fiber"],
-            backend: ["Laravel", "Spring Boot", "Node.js", "Express"],
-            mobile: ["Android Native", "Java", "Kotlin"],
-            design: ["Figma", "Adobe Suite", "Blender (learning)"],
+            backend: ["Laravel", "Spring Boot", "Node.js", "Express","Fastify","Django"],
+            mobile: ["Android Native", "Java", "Kotlin","React Native","Flutter"],
+            design: ["Figma", "Adobe Photoshop", "Canvas"],
             databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase"],
             tools: ["Git", "Docker", "Linux", "Vim", "Postman"]
         };
@@ -52,7 +51,6 @@ class SoftwareEngineer {
             "☕ Coffee++",
             "💻 Code > Debug > Repeat",
             "🎨 Design pixel-perfect UIs",
-            "🌐 Explore 3D web possibilities",
             "📚 Learn something new",
             "🚀 Deploy to production"
         ];
@@ -234,16 +232,8 @@ $ echo "Currently exploring:"
         <br>Photoshop
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere" />
-        <br>Premiere
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=au" width="48" height="48" alt="Audition" />
-        <br>Audition
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
-        <br>Blender
+        <img src="https://skillicons.dev/icons?i=canvas" width="48" height="48" alt="Canvas" />
+        <br>Canvas
     </td>
 </tr>
 </table>
@@ -278,6 +268,10 @@ $ echo "Currently exploring:"
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
         <br>VS Code
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=antigravity" width="48" height="48" alt="Anti Gravity" />
+        <br>AntiGravity
     </td>
 </tr>
 </table>
@@ -338,16 +332,14 @@ education:
 
 achievements:
   - "🏆 42 Cursus Student"
-  - "💡 Built 10+ Full-Stack Projects"
-  - "🎨 Designed 20+ UI/UX Projects"
+  - "💡 Built 50+ Full-Stack Projects"
+  - "🎨 Designed 30+ UI/UX Projects"
   - "📱 Developed Multiple Android Apps"
-  - "🌟 Open Source Contributor"
 
 currently_learning:
-  - "Three.js & WebGL"
-  - "Advanced React Patterns"
+  - "Microservices"
+  - "RxJS"
   - "Cloud Architecture"
-  - "3D Modeling with Blender"
 ```
 
 </details>
@@ -365,51 +357,41 @@ currently_learning:
 <tr>
 <td width="50%">
 
-#### 🌐 3D Portfolio Website
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-Immersive 3D portfolio with interactive elements, smooth animations, and stunning visual effects.
-
-`Three.js` `React Three Fiber` `GSAP` `WebGL`
-
 </td>
 <td width="50%">
 
-#### 📱 Android E-Commerce App
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-Full-featured e-commerce application with real-time updates and secure payment integration.
+#### 🌐 Avocapp-FullStack
+https://github.com/ayoub-essarghini/Avocapp-FullStack  
+Full-stack application primarily implemented in Python with a simple front-end in HTML. Primary languages: Python (93.5%), HTML (4.7%), Makefile (1.5%), Shell (0.3%).
 
-`Android Studio` `Firebase` `Material Design`
+Technologies: Python · HTML · Backend-focused · Full-stack deployment
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-#### 🎨 Design System Library
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+#### 🧭 WebServer
+https://github.com/ahmedelqori/WebServer  
+A custom HTTP server implementation you can test in a real browser — great for learning low-level web protocols and server internals. Primary languages: C++ (93.8%), Python (5.2%).
 
-Reusable component library with comprehensive documentation and accessibility features.
+Description: This project is about writing your own HTTP server. You will be able to test it with an actual browser. HTTP is one of the most used protocols on the internet. Knowing its arcane will be useful, even if you won’t be working on a website.
 
-`React` `TypeScript` `Tailwind` `Storybook`
+---
 
-</td>
-<td width="50%">
+#### 🗺️ WanderWise Backend
+https://github.com/ayoub-essarghini/WanderWise-Backend  
+Robust backend service implemented in Java for a travel app. Primary languages: Java (99.8%), Dockerfile (0.2%).
 
-#### 🔐 Full-Stack Web App
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+Technologies: Java · REST · Docker
 
-Enterprise-level web application with authentication, real-time features, and admin dashboard.
+---
 
-`Laravel` `Vue.js` `MySQL` `Redis`
+#### 🎮 ft_transcendence
+https://github.com/ayoub-essarghini/ft_transcendence  
+Full-stack real-time project combining TypeScript and JavaScript with smart-contract pieces. Primary languages: TypeScript (66.2%), JavaScript (32.2%), plus small Solidity components.
 
-</td>
+Technologies: TypeScript · Node/React · Solidity (small) · Docker
+
+---
 </tr>
 </table>
 
