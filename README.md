@@ -438,7 +438,7 @@ Full-stack real-time project combining TypeScript and JavaScript with small smar
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="https://ayoub-es-sarghini.netlify.app/">
+      <a href="https://www.ayoub-essarghini.com/">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
         <br>
         <sub><b>Visit My Portfolio</b></sub>
