@@ -15,9 +15,9 @@
 </p>
 
 <!-- 42 Badge -->
-<a href="https://github.com/oakoudad/badge42">
+<!-- <a href="https://github.com/oakoudad/badge42">
   <img src="https://badge.mediaplus.ma/darkblue/aes-sarg" alt="aes-sarg's 42 stats" />
-</a>
+</a> -->
 
 </div>
 
