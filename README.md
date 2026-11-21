@@ -190,11 +190,11 @@ Includes Vagrant environments and a GitLab setup in the bonus section.
 
 I'm open to software engineering opportunities and project collaboration.
 
-**[ayoubes9922@gmail.com](mailto:ayoubes9922@gmail.com)**
+**[contact@ayoub-essarghini.dev](mailto:a.essarghiniy@gmail.com)**
 
 <br />
 
-[Portfolio](https://www.ayoub-essarghini.com/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/ayoub-es-sarghini-839973212) &nbsp; · &nbsp; [Public repositories](https://github.com/ayoub-essarghini?tab=repositories&type=public)
+[Portfolio](https://www.ayoub-essarghini.dev/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/ayoub-es-sarghini-839973212) &nbsp; · &nbsp; [Public repositories](https://github.com/ayoub-essarghini?tab=repositories&type=public)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=100&section=footer" alt="" />
 
